@@ -1,0 +1,8 @@
+{
+  "name": "NurseConnect Platform",
+  "description": "Healthcare staffing and nurse recruitment platform connecting hospitals, nurses, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
